@@ -5,6 +5,8 @@ Here’s an updated **README.md** snippet with a clear note and clickable link f
 
 A Python–Blender pipeline that automatically generates a dataset of rendered 3D face images with diverse variations (skin tone, wrinkles, makeup, hair color, etc.) and compiles corresponding attribute metadata (CSV/XLSX).
 
+
+
 ## 📁 Folder Structure
 ```
 
@@ -53,7 +55,7 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
 
 3. **Download the Blender scene file**
    You need the `generate_face_image.blend` file to render images. Download it from:
-   [https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend](https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend)
+   [Download blender file](https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend)
    and place it into the `generate_face_image/` folder.
 
 ## 🛠️ Usage
