@@ -1,6 +1,4 @@
-Below is a suggested **README.md** for your repository. You can copy this into your `README.md` at the root.
-
----
+Here’s an updated **README.md** snippet with a clear note and clickable link for downloading `generate_face_image.blend`:
 
 ```markdown
 # blender-face-dataset-generator
@@ -31,7 +29,7 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
 
 ### Prerequisites
 
-- **Blender** (tested with 3.2+)
+- **Blender** (tested with 4.2+)
 - **Python 3.8+**
 - Python packages (install via pip):
   ```bash
@@ -52,6 +50,11 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
    ```bash
    pip install -r requirements.txt
    ```
+
+3. **Download the Blender scene file**
+   You need the `generate_face_image.blend` file to render images. Download it from:
+   [https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend](https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend)
+   and place it into the `generate_face_image/` folder.
 
 ## 🛠️ Usage
 
@@ -97,6 +100,8 @@ blender --background generate_face_image.blend \
 - `--output-dir` : Where to save rendered images
 - `--resolution` : Width and height of output images
 
+> **Note:** Make sure `generate_face_image.blend` is present in this directory (see Installation step).
+
 ## ⚙️ Configuration & Modules
 
 - **`generate_mask/src/modules/`**
@@ -117,5 +122,5 @@ Feel free to open issues or submit pull requests for bug fixes, new features, or
 
 ```
 
-> *Feel free to adjust paths, command-line flags, or descriptions to match your exact implementation.*
+Just replace the example URL with your actual download link. Let me know if you’d like any further tweaks!
 ```
