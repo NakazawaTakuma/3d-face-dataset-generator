@@ -58,6 +58,10 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
    [Download blender file](https://github.com/NakazawaTakuma/3d-face-dataset-generator/releases/download/v1.0.0/generate_face_image.blend)
    and place it into the `generate_face_image/` folder.
 
+<p align="center">
+  <img src="blender_screenshot.jpg" alt="blender screenshot" width="800" />
+</p>
+
 ## 🛠️ Usage
 
 ### 1. Generate Masks & Metadata
