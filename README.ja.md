@@ -33,9 +33,9 @@
 - **Python 3.8 以上**
 - 必要な Python パッケージ（`pip install -r requirements.txt`）
 
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ### インストール
 
@@ -48,9 +48,9 @@ pip install -r requirements.txt
 
 2. 依存関係をインストール：
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Blender シーンファイルをダウンロード**
 
