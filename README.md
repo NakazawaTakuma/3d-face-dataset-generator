@@ -1,11 +1,7 @@
-Here’s an updated **README.md** snippet with a clear note and clickable link for downloading `generate_face_image.blend`:
-
 ```markdown
 # blender-face-dataset-generator
 
 A Python–Blender pipeline that automatically generates a dataset of rendered 3D face images with diverse variations (skin tone, wrinkles, makeup, hair color, etc.) and compiles corresponding attribute metadata (CSV/XLSX).
-
-
 
 ## 📁 Folder Structure
 ```
