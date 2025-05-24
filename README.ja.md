@@ -42,19 +42,15 @@ pip install -r requirements.txt
 1. リポジトリをクローン：
 
    ```bash
-
+   git clone [https://github.com/your-username/blender-face-dataset-generator.git](https://github.com/your-username/blender-face-dataset-generator.git)
+   cd blender-face-dataset-generator
    ```
-
-git clone [https://github.com/your-username/blender-face-dataset-generator.git](https://github.com/your-username/blender-face-dataset-generator.git)
-cd blender-face-dataset-generator
-
-````
 
 2. 依存関係をインストール：
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 3. **Blender シーンファイルをダウンロード**
 
