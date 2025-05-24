@@ -117,8 +117,3 @@ You can tweak sampling distributions, shader parameters, and camera settings dir
 ## 🙏 Contributing
 
 Feel free to open issues or submit pull requests for bug fixes, new features, or performance improvements!
-
-```
-
-Just replace the example URL with your actual download link. Let me know if you’d like any further tweaks!
-```
