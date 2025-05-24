@@ -34,8 +34,6 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
   pip install -r requirements.txt
   ```
 
-````
-
 ### Installation
 
 1. Clone this repository:
@@ -123,4 +121,4 @@ Feel free to open issues or submit pull requests for bug fixes, new features, or
 ```
 
 Just replace the example URL with your actual download link. Let me know if you’d like any further tweaks!
-````
+```
