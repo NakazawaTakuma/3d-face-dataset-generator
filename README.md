@@ -1,9 +1,9 @@
-```markdown
 # blender-face-dataset-generator
 
 A Python–Blender pipeline that automatically generates a dataset of rendered 3D face images with diverse variations (skin tone, wrinkles, makeup, hair color, etc.) and compiles corresponding attribute metadata (CSV/XLSX).
 
 ## 📁 Folder Structure
+
 ```
 
 .
@@ -21,7 +21,7 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
 │ └── main.py # Entry-point: runs Blender render
 └── generate_face_image.blend # Blend file with camera, lighting & shaders
 
-````
+```
 
 ## 🚀 Getting Started
 
@@ -32,6 +32,8 @@ A Python–Blender pipeline that automatically generates a dataset of rendered 3
 - Python packages (install via pip):
   ```bash
   pip install -r requirements.txt
+  ```
+
 ````
 
 ### Installation
@@ -121,4 +123,4 @@ Feel free to open issues or submit pull requests for bug fixes, new features, or
 ```
 
 Just replace the example URL with your actual download link. Let me know if you’d like any further tweaks!
-```
+````
