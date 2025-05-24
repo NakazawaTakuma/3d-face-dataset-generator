@@ -2,6 +2,8 @@
 
 A Python–Blender pipeline that automatically generates a dataset of rendered 3D face images with diverse variations (skin tone, wrinkles, makeup, hair color, etc.) and compiles corresponding attribute metadata (CSV/XLSX).
 
+📄 日本語版はこちら → [README.ja.md](README.ja.md)
+
 <p align="center">
   <img src="image.jpg" alt="generated face image" width="800" />
 </p>
