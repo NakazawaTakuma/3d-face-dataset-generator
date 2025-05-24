@@ -42,7 +42,7 @@ pip install -r requirements.txt
 1. リポジトリをクローン：
 
    ```bash
-   git clone [https://github.com/your-username/blender-face-dataset-generator.git](https://github.com/your-username/blender-face-dataset-generator.git)
+   git clone https://github.com/your-username/blender-face-dataset-generator.git
    cd blender-face-dataset-generator
    ```
 
